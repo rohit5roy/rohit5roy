@@ -46,7 +46,7 @@
 </picture>
 </p>
 
-<p>&nbsp;
+<p>
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohit5roy&show_icons=true&locale=en&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rohit5roy&show_icons=true&locale=en&theme=default">
