@@ -13,10 +13,6 @@
     leveraging AI and modern engineering practices to <span style="font-weight: bold"> transform complex business problems into tangible, high-value solutions</span>.
 </p>
 
-<p style="text-align: left;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit5roy&margin-w=15&margin-h=15" alt="rohit5roy"/></a> </p>
-
-<p style="text-align: left;"> <a href="https://twitter.com/rohit7roy" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7roy?logo=twitter&style=for-the-badge" alt="rohit7roy" /></a> </p>
-
 - 🔭 I’m currently working with [Bazaarvoice](https://bazaarvoice.com/)
 
 - 👯 I’m looking to collaborate on **software solutioning, creating intelligent systems**
@@ -26,6 +22,11 @@
 - 💬 Ask me about **Distributed Systems, Result Driven Development, AI enabled systems**
 
 - 📫 How to reach me **rohit7roy@gmail.com**
+
+<p style="text-align: left;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit5roy&margin-w=15&margin-h=15" alt="rohit5roy"/></a> </p>
+
+<p style="text-align: left;"> <a href="https://twitter.com/rohit7roy" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7roy?logo=twitter&style=for-the-badge" alt="rohit7roy" /></a> </p>
+
 
 ### Blogs posts
 
