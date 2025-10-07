@@ -8,7 +8,7 @@
 </h3>
 
 
-A **Result-Driven Software Engineer** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **transform complex business problems into tangible, high-value solutions**.
+A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
 
 
 <img style="text-align: right;" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="360px"/>
