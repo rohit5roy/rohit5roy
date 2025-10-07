@@ -54,5 +54,11 @@
 </picture>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5roy&" alt="rohit5roy" /></p>
+<p>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rohit5roy&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rohit5roy&theme=default">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5roy&theme=default" alt="Github Stats">
+  </picture>
+</p>
 <p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=rohit5roy&label=Profile%20views&color=0e75b6&style=flat" alt="rohit5roy" /> </p>
