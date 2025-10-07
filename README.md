@@ -28,11 +28,11 @@
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
-<a href="https://twitter.com/rohit7roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit7roy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit--roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit--roy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stack5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack5" height="30" width="40" /></a>
-<a href="https://medium.com/@rohit7roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohit7roy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2650354/stack5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohit7roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit7roy" height="30" width="40" /></a>
+<a href="https://twitter.com/rohit7roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit7roy" height="30" width="40" /></a>
+<a href="https://medium.com/@rohit7roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohit7roy" height="30" width="40" /></a>
 </p>
 
 <h3 style="text-align: left;">Languages and Tools:</h3>
@@ -61,4 +61,4 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit5roy&theme=default" alt="Github Stats">
   </picture>
 </p>
-<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=rohit5roy&label=Profile%20views&color=0e75b6&style=flat" alt="rohit5roy" /> </p>
+<p style="text-align: left;"> <img src="https://komarev.com/ghpvc/?username=rohit5roy&label=Views&color=0e75b6&style=flat" alt="rohit5roy" /> </p>
