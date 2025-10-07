@@ -7,12 +7,25 @@
 </picture>
 </h3>
 
+<div style="display: flex; align-items: center;">
+<div style="flex: 1; padding-right: 20px;">
 
 A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
 
+**Core Competencies**:
+- **Leadership & Collaboration**: Leading cross-functional teams to deliver complex projects on time and within budget.
+- **Business Acumen**: Aligning technology solutions with strategic objectives, ensuring maximum ROI.
+- **Enterprise & Distributed Systems**: Architecting scalable microservices solutions using Java, Spring Boot on cloud infrastructure.
+- **Strategic AI Integration**: Embedding AI/ML capabilities to automate workflows and drive data-informed decisions.
+- **Modern DevOps & Full-Stack**: Managing automated CI/CD pipelines with GitHub Actions for rapid, reliable delivery.
 
-<img style="text-align: right;" alt="GIF" src="images/readme.gif" width="360px"/>
+</div>
+<div style="flex: 0 0 400px;">
 
+<img alt="GIF" src="images/readme.gif" width="400px"/>
+
+</div>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30"> More About Me: </h2>
 
