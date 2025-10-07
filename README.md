@@ -7,22 +7,9 @@
 </picture>
 </h3>
 
-<table style="border: none; width: 100%;">
-<tr>
-<td style="width: 50%; text-align: left; vertical-align: top;">
-<p>A <span style="font-weight: bold">results-driven Software Engineer</span> with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to <span style="font-weight: bold">transform complex business problems into tangible, high-value solutions</span>.</p>
-</td>
-<td width="50%">
-<img alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="360px"/>
-</td>
-</tr>
-</table>
 
-<p>A <span style="font-weight: bold">  results-driven Software Engineer </span> with over 12
-    years of experience specializing in the design and delivery of high-performance,
-    distributed enterprise systems. I champion a results-focused development approach,
-    leveraging AI and modern engineering practices to <span style="font-weight: bold"> transform complex business problems into tangible, high-value solutions</span>.
-</p>
+### A **Result-Driven Software Engineer** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **transform complex business problems into tangible, high-value solutions**.
+
 
 <img style="text-align: right;" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="360px"/>
 
