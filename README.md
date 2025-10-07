@@ -1,17 +1,17 @@
 <h1 style="text-align: left;">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50" alt="hi">, I'm Rohit Roy</h1>
-<h3 style="text-align: left;">
+<div style="text-align: left;">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&font=monospace&color=f0f6fc&size=26&weight=900&lines=Software+Engineer;+AI+Strategist;+Enterprise+Developer;+Creative+Developer;+Result-Driven+Developer;+Software+Solutioninst;+Entreprenuer;+Technology+Leader">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&font=monospace&color=24292f&size=26&weight=900&lines=Software+Engineer;+AI+Strategist;+Enterprise+Developer;+Creative+Developer;+Result-Driven+Developer;+Software+Solutioninst;+Entreprenuer;+Technology+Leader">
       <img src="https://readme-typing-svg.herokuapp.com?&font=monospace&color=24292f&size=26&weight=900&lines=Software+Engineer;+AI+Strategist;+Enterprise+Developer;+Creative+Developer;+Result-Driven+Developer;+Software+Solutioninst;+Entreprenuer;+Technology+Leader" alt="Typing SVG">
 </picture>
-</h3>
+</div>
 
 A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
 
 **Core Competencies**:
 
-<img alt="GIF" src="images/readme.gif" width="360px" align="right"/>
+<img alt="GIF" src="docs/images/readme.gif" width="360px" align="right"/>
 
 - **Leadership & Collaboration**: Leading cross-functional teams to deliver complex projects on time and within budget.
 - **Business Acumen**: Aligning technology solutions with strategic goals, ensuring maximum ROI.
