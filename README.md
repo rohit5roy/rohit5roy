@@ -1,4 +1,4 @@
-<h1 style="text-align: left;">Hi 👋, I'm Rohit Roy</h1>
+<h1 style="text-align: left;">Hi <img src="https://tenor.com/iA6E1PxrpRR.gif" width="30">, I'm Rohit Roy</h1>
 <h3 style="text-align: left;">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&font=monospace&color=f0f6fc&size=26&weight=900&lines=Software+Engineer;+AI+Strategist;+Enterprise+Developer;+Creative+Developer;+Result-Driven+Developer;+Software+Solutioninst;+Entreprenuer;+Technology+Leader">
