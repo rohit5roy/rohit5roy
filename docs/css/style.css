@@ -1805,14 +1805,15 @@ ul.info-list li strong {
 @media (max-width:768px) {
 
 	.home {
-		background: url("../images/bg.jpg") #333 30% 30%;
+        background: url("../images/bg.jpg") #333 center center / cover no-repeat;
 	}
 
 	.name-block,
 	.about-block,
 	.portfolio-block,
 	.blog-block,
-	.contact-block {
+	.contact-block,
+    .demystify-block{
         position: relative;
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
@@ -1830,7 +1831,8 @@ ul.info-list li strong {
 	.about-block-container,
 	.portfolio-block-container,
 	.blog-block-container,
-	.contact-block-container {
+	.contact-block-container,
+    .demystify-block-container{
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
