@@ -7,6 +7,12 @@
 </picture>
 </h3>
 
+<p>A <span style="font-weight: bold">  results-driven Software Engineer </span> with over 12
+    years of experience specializing in the design and delivery of high-performance,
+    distributed enterprise systems. I champion a results-focused development approach,
+    leveraging AI and modern engineering practices to <span style="font-weight: bold"> transform complex business problems into tangible, high-value solutions</span>.
+</p>
+
 <p style="text-align: left;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit5roy&margin-w=15&margin-h=15" alt="rohit5roy"/></a> </p>
 
 <p style="text-align: left;"> <a href="https://twitter.com/rohit7roy" target="blank"><img src="https://img.shields.io/twitter/follow/rohit7roy?logo=twitter&style=for-the-badge" alt="rohit7roy" /></a> </p>
