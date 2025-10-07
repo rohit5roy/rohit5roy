@@ -1,4 +1,4 @@
-<h1 style="text-align: left;">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50">, I'm Rohit Roy</h1>
+<h1 style="text-align: left;">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50" alt="hi">, I'm Rohit Roy</h1>
 <h3 style="text-align: left;">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&font=monospace&color=f0f6fc&size=26&weight=900&lines=Software+Engineer;+AI+Strategist;+Enterprise+Developer;+Creative+Developer;+Result-Driven+Developer;+Software+Solutioninst;+Entreprenuer;+Technology+Leader">
@@ -10,25 +10,26 @@
 A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
 
 **Core Competencies**:
+
+<img alt="GIF" src="images/readme.gif" width="360px" align="right"/>
+
 - **Leadership & Collaboration**: Leading cross-functional teams to deliver complex projects on time and within budget.
-- **Business Acumen**: Aligning technology solutions with strategic objectives, ensuring maximum ROI.
-- **Enterprise & Distributed Systems**: Architecting scalable microservices solutions using Java, Spring Boot on cloud infrastructure.
-- **Strategic AI Integration**: Embedding AI/ML capabilities to automate workflows and drive data-informed decisions.
-- **Modern DevOps & Full-Stack**: Managing automated CI/CD pipelines with GitHub Actions for rapid, reliable delivery.
+- **Business Acumen**: Aligning technology solutions with strategic goals, ensuring maximum ROI.
+- **Enterprise & Distributed Systems**: Architecting scalable microservices solutions using web technologies on cloud infrastructure.
+- **Strategic AI Integration**: Embedding AI/ML capabilities to enhance product offerings and automate workflows via data-driven decisions.
+- **Modern DevOps & Full-Stack**: Automated CI/CD pipelines for rapid, reliable delivery in end-to-end engineered software.
 
-
-<img alt="GIF" src="images/readme.gif" width="400px" style="text-align: right;"/>
-
-<h2 style="text-align: left;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30"/> Connect with me</h2>
+<h2 style="text-align: left;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="30" alt="connect with me"/> Connect with me</h2>
 <p style="text-align: left;">
 <a href="https://linkedin.com/in/rohit--roy" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn" height="40"/></a>
 <a href="https://stackoverflow.com/users/2650354/stack5" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" height="40"/></a>
 <a href="https://www.leetcode.com/rohit7roy" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" height="40"/></a>
 <a href="https://x.com/rohit7roy" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" height="40"/></a>
 <a href="https://medium.com/@rohit7roy" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" height="40"/></a>
+<a href="https://calendly.com/d/ctdt-33z-wzm/30-minute-meeting" target="blank"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" height="40"/></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30"> More About Me: </h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Open%20Hands.png" width="30"> More About Me </h2>
 
 - 🔭 I’m currently working with [Bazaarvoice](https://bazaarvoice.com/)
 - 👯 I’m looking to collaborate on **software solutioning, creating intelligent systems**
@@ -36,9 +37,7 @@ A **_Result-Driven Software Engineer_** with over 12 years of experience special
 - 💬 Ask me about **Distributed Systems, Result Driven Development, AI enabled systems**
 - 📫 How to reach me **rohit7roy@gmail.com**
 
-
-
-<h2 style="text-align: left;"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Languages and Tools:</h2>
+<h2 style="text-align: left;"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Languages and Tools</h2>
 <p style="text-align: left;">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -84,7 +83,7 @@ A **_Result-Driven Software Engineer_** with over 12 years of experience special
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-<h2 style="text-align: left;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>  GitHub Stats</h2>
+<h2 style="text-align: left;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" alt="Stats"/> GitHub Statistics</h2>
 
 <p style="text-align: left;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit5roy&margin-w=15&margin-h=15" alt="rohit5roy"/></a> </p>
 
