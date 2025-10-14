@@ -7,7 +7,7 @@
 </picture>
 </div>
 
-A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-focused development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
+A **_Result-Driven Software Engineer_** with over 12 years of experience specializing in the design and delivery of high-performance, distributed enterprise systems. I champion a results-driven development approach, leveraging AI and modern engineering practices to **_transform complex business problems into tangible, high-value solutions_**.
 
 **Core Competencies**:
 
